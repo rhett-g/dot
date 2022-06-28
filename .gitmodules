@@ -1,6 +1,6 @@
 [submodule ".vim/plugged/ctrlp.vim"]
 	path = .vim/plugged/ctrlp.vim
-	url = https://github.com/kien/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim
 [submodule ".vim/plugged/gruvbox"]
 	path = .vim/plugged/gruvbox
 	url = https://github.com/morhetz/gruvbox
