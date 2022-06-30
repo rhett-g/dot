@@ -150,6 +150,8 @@ map <C-o> :NERDTreeToggle %<CR>
 noremap <c-p> :ctrlp_map<cr>
 let g:ctrlp_cmd = 'CtrlP'
 
+" Allow saving of files as sudo when I forgot to start vim using sudo.
+cmap w!! w !sudo tee > /dev/null %
 " }}}
 
 
